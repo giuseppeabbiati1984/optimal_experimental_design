@@ -1,4 +1,4 @@
-# Optimal Experimental Design
+# Cross-Spectral Estimator of Low-Frequency Hydrodynamic Parameters and Optimal Experimental Design
 
 MATLAB code for numerical analysis and optimal experimental design (OED). The repository provides separate entry points for analysing a numerical model and determining an experimental design.
 
@@ -28,6 +28,14 @@ Use `script_OED_num.m` for the optimal-design workflow:
 
 ```matlab
 script_OED_num
+```
+
+## Parameter Estimation from Experimental Data
+
+Use `script_LF_est_exp.m` for the parameter estimation from experimental data:
+
+```matlab
+script_LF_est_exp.m
 ```
 
 When adapting the design problem, review the model, experimental design variables, objective, constraints, and optimisation settings in the source. Interpret the resulting design in the context of these choices.
