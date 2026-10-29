@@ -11,25 +11,6 @@ Optimal experimental design aims to choose experimental conditions that make the
 | [`script_analysis_num.m`](script_analysis_num.m) | Main entry point for numerical analysis. |
 | [`script_OED_num.m`](script_OED_num.m) | Main entry point for optimal experimental design. |
 
-## Getting started
-
-1. Clone the repository, or download and extract it from GitHub:
-
-   ```bash
-   git clone https://github.com/giuseppeabbiati1984/optimal_experimental_design.git
-   ```
-
-2. Open MATLAB and set the repository folder as the **Current Folder**.
-
-3. Add the repository and its subfolders to the MATLAB path:
-
-   ```matlab
-   addpath(genpath(pwd))
-   ```
-
-4. Open the script for your intended workflow and review its settings before running it. Keep the repository folder structure intact so that supporting files remain available.
-
-MATLAB is required. Check the scripts and the routines they call for any additional toolbox or input-file requirements.
 
 ## Numerical analysis
 
