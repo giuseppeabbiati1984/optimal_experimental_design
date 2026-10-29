@@ -10,7 +10,7 @@ Optimal experimental design aims to choose experimental conditions that make the
 | --- | --- |
 | [`script_analysis_num.m`](script_analysis_num.m) | Main entry point for numerical analysis. |
 | [`script_OED_num.m`](script_OED_num.m) | Main entry point for optimal experimental design. |
-
+| [`script_LF_est_exp.m`](script_LF_est_exp.m) | Main script for data analysis and estimation based on experimental data. |
 
 ## Numerical analysis
 
