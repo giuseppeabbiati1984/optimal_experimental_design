@@ -30,7 +30,7 @@ Use `script_OED_num.m` for the optimal-design workflow:
 script_OED_num
 ```
 
-## Parameter Estimation from Experimental Data
+## Parameter estimation from experimental data
 
 Use `script_LF_est_exp.m` for the parameter estimation from experimental data:
 
